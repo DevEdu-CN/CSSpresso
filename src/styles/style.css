@@ -1,0 +1,14 @@
+body {
+  background-color: #eea617;
+}
+
+header .logo {
+  display: flex;
+  align-items: center;
+}
+header .logo img {
+  width: 100px;
+  height: 100px;
+}
+
+/*# sourceMappingURL=style.css.map */
